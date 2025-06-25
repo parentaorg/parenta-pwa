@@ -1,0 +1,16 @@
+{
+  "name": "parenta-pwa",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "preact": "^10.13.2",
+    "vite": "^5.0.0",
+    "@preact/preset-vite": "^2.10.0"
+  }
+}
